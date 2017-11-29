@@ -1,0 +1,2 @@
+c:\users\ducth\onedrive\tài liệu\visual studio 2015\Projects\DongBoListVip\DongBoListVip\bin\Debug\DongBoListVip.exe.config
+D:\VisualStudio2015\DongBoListVip\DongBoListVip\bin\Debug\DongBoListVip.exe.config
